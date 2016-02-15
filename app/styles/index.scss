@@ -47,13 +47,17 @@ $pageDotPadding: 4px;
 }
 
 html body {
-  font-family: Roboto, Helvetica, Arial, sans-serif;
+  font-family: Lato, Helvetica, Arial, sans-serif;
   color: $textColor;
   -webkit-font-smoothing: antialiased;
 }
 
+h1,h2 {
+  font-family: "Francois One";
+}
+
 pre, code {
-  font-family: Roboto Mono;
+  font-family: Lato;
   color: $codeColor;
 }
 
@@ -74,13 +78,13 @@ ul, p {
 }
 
 li {
-  font-size: 14px;
   line-height: 20px;
+  font-size:15px;
   margin-bottom: 8px;
 }
 
 html body, p {
-  font-size: 14px;
+  font-size: 15px;
   line-height: 20px;
 }
 
@@ -145,12 +149,8 @@ header {
       float:right;
       img {
         display:inline-block;
-        width:50px;
+        width:60px;
         margin-left:10px;
-
-        &.rss {
-          width:40px;
-        }
       }
     }
 
@@ -266,7 +266,6 @@ section.project {
 
     a {
       color: $accentColor;
-      font-size: 14px;
       line-height: 16px;
       font-weight: 500;
       text-decoration: none;
@@ -411,7 +410,6 @@ section.project {
       }
 
       .caption {
-        font-size: 14px;
         line-height: 20px;
         background-color: rgba(white, 0.9);
         color: $textColor;
