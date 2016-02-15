@@ -1,12 +1,10 @@
 # List of my portfolio projects.
 
-- name: Project 1
-  date: September 2013 – February 2014
+- name: Single Page Applications
+  date: React.js / Redux / ES6 / Babel / Backbone.js
   extra_classes: tall
   description: |
-    Lorem ipsum Aliquip qui enim dolore deserunt est eu nostrud in commodo do qui dolore dolor non do nostrud labore cupidatat aliquip proident ut mollit eiusmod ex culpa sint dolor velit incididunt laborum dolore qui [Duis aliqua cupidatat](http://www.google.com) eiusmod occaecat quis labore dolor labore nostrud ad ut quis magna reprehenderit officia laborum in ullamco anim dolore Duis eu minim dolor ex Ut et est deserunt veniam in sed labore ad labore culpa labore laboris dolor dolore in id sunt ut eu nulla dolore in.
-
-    Incididunt anim enim non Ut culpa culpa incididunt est tempor magna cillum officia mollit magna enim nisi culpa eu eu elit ex in consectetur ad dolore amet elit proident adipisicing magna aute officia elit nisi commodo reprehenderit labore proident enim dolor laborum est labore aliqua non dolore occaecat cupidatat aute Excepteur sed veniam laboris veniam id.
+    
 
   actions:
   - caption: Action 1
@@ -38,8 +36,8 @@
 ###################################################################################################
 
 
-- name: Project 2
-  date: 2010 – 2014
+- name: Innovative interfaces
+  date: Webdocumentary
   extra_classes: tall
   description: |
     Lorem ipsum *Id eu aliquip cillum* ut anim in tempor non magna anim occaecat.
@@ -83,8 +81,83 @@
 ###################################################################################################
 
 
-- name: Project 3
+- name: Responsive Websites
   date: September 2012 – February 2013
+  extra_classes: tall
+  description: |
+    Lorem ipsum Eu voluptate veniam do magna dolore reprehenderit esse ad in amet Excepteur aute in consequat nulla in dolore reprehenderit commodo irure nostrud nulla nostrud nisi sed exercitation sed mollit.
+
+    Duis dolore sit incididunt ut aliquip aliqua occaecat cillum sunt exercitation incididunt ut Excepteur magna velit fugiat laboris sed dolore incididunt occaecat laborum amet tempor fugiat voluptate officia mollit consequat in Excepteur ut in laboris proident est enim ut aliquip culpa do ex enim non sed ut exercitation anim est nostrud consequat ad voluptate officia aliquip minim anim velit.
+
+    Consectetur pariatur ex consequat elit esse magna commodo ea cillum Excepteur labore adipisicing.
+
+  actions:
+  - caption: Action 1
+    url: http://www.google.com
+  - caption: Action 2
+    url: http://www.google.com
+
+  pages:
+  - video: project3
+    color: 'material teal 100'
+    color2: 'material teal 500'
+    device_frame: nexus5_light
+
+###################################################################################################
+
+
+- name: Mobile Apps
+  date: Phonegap
+  extra_classes: tall
+  description: |
+    Lorem ipsum Eu voluptate veniam do magna dolore reprehenderit esse ad in amet Excepteur aute in consequat nulla in dolore reprehenderit commodo irure nostrud nulla nostrud nisi sed exercitation sed mollit.
+
+    Duis dolore sit incididunt ut aliquip aliqua occaecat cillum sunt exercitation incididunt ut Excepteur magna velit fugiat laboris sed dolore incididunt occaecat laborum amet tempor fugiat voluptate officia mollit consequat in Excepteur ut in laboris proident est enim ut aliquip culpa do ex enim non sed ut exercitation anim est nostrud consequat ad voluptate officia aliquip minim anim velit.
+
+    Consectetur pariatur ex consequat elit esse magna commodo ea cillum Excepteur labore adipisicing.
+
+  actions:
+  - caption: Action 1
+    url: http://www.google.com
+  - caption: Action 2
+    url: http://www.google.com
+
+  pages:
+  - video: project3
+    color: 'material teal 100'
+    color2: 'material teal 500'
+    device_frame: nexus5_light
+
+###################################################################################################
+
+
+- name: UX Thinking
+  date: 
+  extra_classes: tall
+  description: |
+    Lorem ipsum Eu voluptate veniam do magna dolore reprehenderit esse ad in amet Excepteur aute in consequat nulla in dolore reprehenderit commodo irure nostrud nulla nostrud nisi sed exercitation sed mollit.
+
+    Duis dolore sit incididunt ut aliquip aliqua occaecat cillum sunt exercitation incididunt ut Excepteur magna velit fugiat laboris sed dolore incididunt occaecat laborum amet tempor fugiat voluptate officia mollit consequat in Excepteur ut in laboris proident est enim ut aliquip culpa do ex enim non sed ut exercitation anim est nostrud consequat ad voluptate officia aliquip minim anim velit.
+
+    Consectetur pariatur ex consequat elit esse magna commodo ea cillum Excepteur labore adipisicing.
+
+  actions:
+  - caption: Action 1
+    url: http://www.google.com
+  - caption: Action 2
+    url: http://www.google.com
+
+  pages:
+  - video: project3
+    color: 'material teal 100'
+    color2: 'material teal 500'
+    device_frame: nexus5_light
+
+###################################################################################################
+
+
+- name: Open Source Work
+  date: 
   extra_classes: tall
   description: |
     Lorem ipsum Eu voluptate veniam do magna dolore reprehenderit esse ad in amet Excepteur aute in consequat nulla in dolore reprehenderit commodo irure nostrud nulla nostrud nisi sed exercitation sed mollit.

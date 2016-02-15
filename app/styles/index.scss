@@ -111,39 +111,60 @@ header {
 
   border-bottom: 1px solid rgba(black, 0.1);
 
-  h1 {
-    display: block;
-    font-weight: 300;
-    font-size: 48px;
-    line-height: 56px;
-    @include narrow {
-      font-size: 32px;
-      line-height: 40px;
-      font-weight: 400;
-    }
-    letter-spacing: -1px;
-    margin: 0;
-    padding: 0;
-  }
-  
-  .subtitle {
-    display: block;
-    margin-bottom: 32px;
-    color: $textColorSub;
-    font-size: 14px;
-    line-height: 16px;
+  .heading {
 
-    :last-child {
-      margin-bottom: 0;
+    h1 {
+      display: inline-block;
+      font-weight: 300;
+      font-size: 48px;
+      line-height: 56px;
+      @include narrow {
+        font-size: 32px;
+        line-height: 40px;
+        font-weight: 400;
+      }
+      letter-spacing: -1px;
+      margin: 0;
+      padding: 0;
     }
+    
+    .subtitle {
+      display: block;
+      margin-bottom: 25px;
+      margin-left:10px;
+      color: $textColorSub;
+      font-size: 14px;
+      line-height: 16px;
+
+      :last-child {
+        margin-bottom: 0;
+      }
+    }
+
+    .social {
+      float:right;
+      img {
+        display:inline-block;
+        width:50px;
+        margin-left:10px;
+
+        &.rss {
+          width:40px;
+        }
+      }
+    }
+
   }
+
+  
 
   .intro {
     margin: 0;
     box-sizing: border-box;
-    max-width: $desktopWidth - $desktopPagerWidth;
-    padding-right: 24px;
+    max-width: 100%;
+    padding: 10px;
     color: $textColor;
+    text-align:justify;
 
     :last-child {
       margin-bottom: 0;

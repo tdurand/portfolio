@@ -32,8 +32,16 @@
 <body>
 
 <header>
-  <h1>{{ meta.title }}</h1>
-  <div class="subtitle">{{ meta.subtitle | markdown }}</div>
+  <div class="heading">
+    <h1>{{ meta.title }}</h1>
+    <div class="social">
+      <img class="contact" src="images/icon_contact.svg" />
+      <img class="twitter" src="images/icon_twitter.svg" />
+      <img class="twitter" src="images/icon_github.svg" />
+      <img class="rss" src="images/icon_rss.svg" />
+    </div>
+    <div class="subtitle">{{ meta.subtitle | markdown }}</div>
+  </div>
   <div class="intro">
     {{ meta.intro | markdown }}
   </div>
