@@ -40,31 +40,40 @@
   date: Webdocumentary
   extra_classes: tall
   description: |
-    Lorem ipsum *Id eu aliquip cillum* ut anim in tempor non magna anim occaecat.
 
-    * Lorem ipsum Duis Duis proident laborum aliquip est sint deserunt qui tempor in anim sunt fugiat nisi sint proident elit esse.
-    * Lorem ipsum Nulla ea deserunt officia cillum dolore voluptate laborum mollit qui Ut quis.
+    Having been living in South America for 4 years, i always been amazed by their street vendors,
+     and i recently had the opportunity to partner up with a Colombian film maker to build this [interactive
+    documentary](https://pregonerosdemedellin.com).
 
-    Lorem ipsum Dolore laborum laborum eiusmod ex dolor nostrud magna ex voluptate quis et nisi consectetur mollit cillum pariatur aliquip ea labore consequat nostrud sed proident cupidatat dolor velit fugiat nostrud et Ut esse deserunt anim.
+    It features the day to day life of the street vendors of Medellín in a Street View like experience, you can 
+    stroll through the streets and see short documentaries about their lifes.
+
+    You can read a [detailled blog post](medium.com/@tibbb/how-we-created-an-immersive-street-walk-experience-with-a-gopro-and-javascript-f442cf8aa2dd)
+     about it, it was a big technical challenge to figure
+    out how to build a custom google street view: from filming it to the building the interface.
+
+    We have been selected in film festivals: FIPA (France), FilmGate Miami (U.S), DOK Leipzik (Germany)...
 
   actions:
-  - caption: Action 1
-    url: http://www.google.com
-  - caption: Action 2
-    url: http://www.google.com
+  - caption: Go to the experience
+    url: https://pregonerosdemedellin.com
+  - caption: Read about how we made it
+    url: https://medium.com/@tibbb/how-we-created-an-immersive-street-walk-experience-with-a-gopro-and-javascript-f442cf8aa2dd
+  - caption: GitHub repository
+    url: https://github.com/tdurand/pregoneros-de-medellin
 
   pages:
   - video: pregonerosdemedellin
     color: 'material indigo 100'
     device_frame: browser
     extra_classes: no-padding
-    caption: Lorem ipsum Excepteur sed eiusmod eu exercitation deserunt dolor occaecat aute voluptate proident ut ut sed.
+    caption: The street view like experience, try it on pregonerosdemedellin.com !
 
   - image: pregonerosdemedellin.jpg
     color: 'material indigo 100'
     device_frame: browser
     extra_classes: no-padding
-    caption: Lorem ipsum Excepteur sed eiusmod eu exercitation deserunt dolor occaecat aute voluptate proident ut ut sed.
+    caption: We have been showing it in film festivals - FIPA (France), FilmGate Miami (U.S), DOK Leipzik (Germany)... 
 
 ###################################################################################################
 
