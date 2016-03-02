@@ -23,7 +23,7 @@
     color: 'material orange 100'
     color2: 'material orange 600'
     device_frame: browser
-    caption: Redux developer experience, all state mutations are recorded and replayable.
+    caption: Redux dev experience, all state mutations are recorded and replayable.
 
 
 ###################################################################################################
