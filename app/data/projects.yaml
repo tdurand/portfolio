@@ -7,7 +7,7 @@
     I have been working on contract work on the [toptal platform](https://www.toptal.com/resume/thibault-durand), on React.js & Flux architectures for almost 1 year now.
 
     I believe React.js and Redux are a big step forward to build performant, maintainable, modular and testable interfaces, i have been working on internal dashboards,
-    an eventbride like app, and i'm currently working on building a complete online learning platform for [Techchange](techchange.org).
+    an eventbrite like app, and i'm currently working on building a complete online learning platform for [Techchange](techchange.org).
 
     Previous to that I have also been working for 3 years on a PhoneGap App for [Mosalingua](http://www.mosalingua.com), where i built a complete mobile app with Backbone.js and a custom UI, shipping to
     hundred of thousands customers on both [iOS](https://itunes.apple.com/fr/app/anglais-apprendre-avec-mosalingua/id399804936?mt=8) and [Android](https://play.google.com/store/apps/details?id=com.mosalingua.en).
@@ -38,9 +38,9 @@
     documentary](https://pregonerosdemedellin.com).
 
     It features the day to day life of the street vendors of Medellín in a Street View like experience, you can 
-    stroll through the streets and see short documentaries about their lifes.
+    stroll through the streets and see short documentaries about their life.
 
-    You can read a [detailled blog post](medium.com/@tibbb/how-we-created-an-immersive-street-walk-experience-with-a-gopro-and-javascript-f442cf8aa2dd)
+    You can read a [detailed blog post](medium.com/@tibbb/how-we-created-an-immersive-street-walk-experience-with-a-gopro-and-javascript-f442cf8aa2dd)
      about it, it was a big technical challenge to figure
     out how to build a custom google street view: from filming it to building the interface.
 
@@ -79,7 +79,7 @@
     Most of the time just do the integration from Sketch, Illustrator, Photoshop files in a full responsive, pixel perfect and performant HTML, CSS, Javascript website.
 
     But i can also build the fullstack and use a [Content as Service](http://ecmarchitect.com/archives/2014/10/27/3944) provider like [prismic.io](https://prismic.io/) 
-    to provide a flexible and powerfull way to manage, versionate content with an user friendly interface and no code.
+    to provide a flexible and powerful way to manage, versioned content with a user friendly interface and no code.
 
     The websites i build are [fully optimized](https://www.smashingmagazine.com/2015/11/technical-seo-2015-wiring-websites-organic-search/) for SEO.
 
@@ -126,7 +126,7 @@
     
     Deployed each 2 months for hundred of thousands users and worked remotely with a team of 10 across 3 continents, and managed feedback from users in 4 languages.
 
-    I've been learning a lot on specifics challenges of both iOS and Android devices (and webviews) and surfed at the edge of PhoneGap and hybrid apps posibilities.
+    I've been learning a lot on specifics challenges of both iOS and Android devices (and webviews) and surfed at the edge of PhoneGap and hybrid apps possibilities.
 
     I'm currently really enthusiast of seeing React Native coming to the light, i didn't have a change yet to work with it, but my hope is that it can solve some issues of multiplatform mobile app development that PhoneGap can't.
 
@@ -177,7 +177,7 @@
   description: |
     My Open Source work is a bit limited, but if you head to my GitHub profile, you will see that:
 
-    - I've built a [simple Bus transit visualization](http://thibault-durand.fr/mapafortaleza/) for South American chaotic bus networks and inexistant maps.
+    - I've built a [simple Bus transit visualization](http://thibault-durand.fr/mapafortaleza/) for South American chaotic bus networks and inexistent maps.
      I blogged [about it](http://tdurand.tumblr.com/post/31393552608/how-i-created-a-bus-map-of-fortaleza-brazil) few years ago, it is now used 1000 times a day in Fortaleza (Brazil).
 
     - The work on [the webdocumentary](https://github.com/tdurand/pregoneros-de-medellin) i built is open source, i blogged [about it](https://medium.com/@tibbb/how-we-created-an-immersive-street-walk-experience-with-a-gopro-and-javascript-f442cf8aa2dd) too.
