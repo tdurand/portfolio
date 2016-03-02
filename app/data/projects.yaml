@@ -177,7 +177,7 @@
   description: |
     My Open Source work is a bit limited, but if you head to my GitHub profile, you will see that:
 
-    - I've built a [simple Bus transit visualization](http://thibault-durand.fr/mapafortaleza/) for South American chaotic bus networks and inexistent maps.
+    - I've built a [simple Bus transit visualization](http://tdurand.github.io/mapafortaleza/) for South American chaotic bus networks and inexistent maps.
      I blogged [about it](http://tdurand.tumblr.com/post/31393552608/how-i-created-a-bus-map-of-fortaleza-brazil) few years ago, it is now used 1000 times a day in Fortaleza (Brazil).
 
     - The work on [the webdocumentary](https://github.com/tdurand/pregoneros-de-medellin) I built is open source, I blogged [about it](https://medium.com/@tibbb/how-we-created-an-immersive-street-walk-experience-with-a-gopro-and-javascript-f442cf8aa2dd) too.
