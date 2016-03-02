@@ -6,10 +6,10 @@
   description: |
     I have been working on contract work on the [toptal platform](https://www.toptal.com/resume/thibault-durand), on React.js & Flux architectures for almost 1 year now.
 
-    I believe React.js and Redux are a big step forward to build performant, maintainable, modular and testable interfaces, i have been working on internal dashboards,
-    an eventbrite like app, and i'm currently working on building a complete online learning platform for [Techchange](techchange.org).
+    I believe React.js and Redux are a big step forward to build performant, maintainable, modular and testable interfaces, I have been working on internal dashboards,
+    an eventbrite like app, and I'm currently working on building a complete online learning platform for [Techchange](techchange.org).
 
-    Previous to that I have also been working for 3 years on a PhoneGap App for [Mosalingua](http://www.mosalingua.com), where i built a complete mobile app with Backbone.js and a custom UI, shipping to
+    Previous to that I have also been working for 3 years on a PhoneGap App for [Mosalingua](http://www.mosalingua.com), where I built a complete mobile app with Backbone.js and a custom UI, shipping to
     hundred of thousands customers on both [iOS](https://itunes.apple.com/fr/app/anglais-apprendre-avec-mosalingua/id399804936?mt=8) and [Android](https://play.google.com/store/apps/details?id=com.mosalingua.en).
 
   actions:
@@ -33,8 +33,8 @@
   date: Webdocumentary, SVG, HTML, CSS, Javascript
   extra_classes: tall
   description: |
-    Having been living in South America for 4 years, i always been amazed by their street vendors,
-     and i recently had the opportunity to partner up with a Colombian film maker to build this [interactive
+    Having been living in South America for 4 years, I always been amazed by their street vendors,
+     and I recently had the opportunity to partner up with a Colombian film maker to build this [interactive
     documentary](https://pregonerosdemedellin.com).
 
     It features the day to day life of the street vendors of Medellín in a Street View like experience, you can 
@@ -74,14 +74,14 @@
   date: Bootstrap, HTML, CSS, SVG, Javascript
   extra_classes: tall
   description: |
-    The past year i have been building more traditional responsive websites, mainly for small business.
+    The past year I have been building more traditional responsive websites, mainly for small business.
 
     Most of the time just do the integration from Sketch, Illustrator, Photoshop files in a full responsive, pixel perfect and performant HTML, CSS, Javascript website.
 
-    But i can also build the fullstack and use a [Content as Service](http://ecmarchitect.com/archives/2014/10/27/3944) provider like [prismic.io](https://prismic.io/) 
+    But I can also build the fullstack and use a [Content as Service](http://ecmarchitect.com/archives/2014/10/27/3944) provider like [prismic.io](https://prismic.io/) 
     to provide a flexible and powerful way to manage, versioned content with a user friendly interface and no code.
 
-    The websites i build are [fully optimized](https://www.smashingmagazine.com/2015/11/technical-seo-2015-wiring-websites-organic-search/) for SEO.
+    The websites I build are [fully optimized](https://www.smashingmagazine.com/2015/11/technical-seo-2015-wiring-websites-organic-search/) for SEO.
 
 
   actions:
@@ -122,13 +122,13 @@
   date: Phonegap, HTML, CSS, UX, Javascript, iOS, Android
   extra_classes: tall
   description: |
-    I led the technical development of the [MosaLingua apps](mosalingua.com) for 3 years where i oversaw a complete rewrite with PhoneGap/Backbone.js/SASS for both Android and iOS (one codebase) and rethought of UX design of several features.
+    I led the technical development of the [MosaLingua apps](mosalingua.com) for 3 years where I oversaw a complete rewrite with PhoneGap/Backbone.js/SASS for both Android and iOS (one codebase) and rethought of UX design of several features.
     
     Deployed each 2 months for hundred of thousands users and worked remotely with a team of 10 across 3 continents, and managed feedback from users in 4 languages.
 
     I've been learning a lot on specifics challenges of both iOS and Android devices (and webviews) and surfed at the edge of PhoneGap and hybrid apps possibilities.
 
-    I'm currently really enthusiast of seeing React Native coming to the light, i didn't have a change yet to work with it, but my hope is that it can solve some issues of multiplatform mobile app development that PhoneGap can't.
+    I'm currently really enthusiast of seeing React Native coming to the light, I didn't have the chance to work with it yet, but my hope is that it can solve some issues of multiplatform mobile app development that PhoneGap can't.
 
   actions:
   - caption: MosaLingua Android
@@ -149,12 +149,12 @@
   date: 
   extra_classes: tall
   description: |
-    On every project i work on, i use a critical UX eye, trying to make the user experience the simpler i can.
+    On every project I work on, I use a critical UX eye, trying to make the user experience the simpler I can.
 
-    One of the best presentation i've seen on UX design [was given by @mrjoe](https://www.youtube.com/watch?v=3-0NQ_bb4C8), in one sentence: [design for emotion](http://www.amazon.com/Seductive-Interaction-Design-Effective-Experiences/dp/0321725522) and [match human mental models](http://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/).
+    One of the best presentation I've seen on UX design [was given by @mrjoe](https://www.youtube.com/watch?v=3-0NQ_bb4C8), in one sentence: [design for emotion](http://www.amazon.com/Seductive-Interaction-Design-Effective-Experiences/dp/0321725522) and [match human mental models](http://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/).
 
-    I usually sketch on pencil and paper, but do sometimes mockups of UX ideas on Omigraffle or Invision. I did a bit of user testing 
-    on the webdocumentary i worked on, but usually projects don't have such budget.
+    I usually sketch on pencil and paper, but can do mockups of UX ideas on Omigraffle or Invision. I did a bit of user testing 
+    on the webdocumentary I worked on, but usually projects don't have such budget.
 
   actions:
   - caption: Psychology and the Perfect Design
@@ -180,7 +180,7 @@
     - I've built a [simple Bus transit visualization](http://thibault-durand.fr/mapafortaleza/) for South American chaotic bus networks and inexistent maps.
      I blogged [about it](http://tdurand.tumblr.com/post/31393552608/how-i-created-a-bus-map-of-fortaleza-brazil) few years ago, it is now used 1000 times a day in Fortaleza (Brazil).
 
-    - The work on [the webdocumentary](https://github.com/tdurand/pregoneros-de-medellin) i built is open source, i blogged [about it](https://medium.com/@tibbb/how-we-created-an-immersive-street-walk-experience-with-a-gopro-and-javascript-f442cf8aa2dd) too.
+    - The work on [the webdocumentary](https://github.com/tdurand/pregoneros-de-medellin) I built is open source, I blogged [about it](https://medium.com/@tibbb/how-we-created-an-immersive-street-walk-experience-with-a-gopro-and-javascript-f442cf8aa2dd) too.
 
     - I've been submitting few PRs on PhoneGap plugins and javascript libraries / tools.
 
