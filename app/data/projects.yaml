@@ -40,7 +40,7 @@
     It features the day to day life of the street vendors of Medellín in a Street View like experience, you can 
     stroll through the streets and see short documentaries about their life.
 
-    You can read a [detailed blog post](medium.com/@tibbb/how-we-created-an-immersive-street-walk-experience-with-a-gopro-and-javascript-f442cf8aa2dd)
+    You can read a [detailed blog post](https://medium.com/@tibbb/how-we-created-an-immersive-street-walk-experience-with-a-gopro-and-javascript-f442cf8aa2dd)
      about it, it was a big technical challenge to figure
     out how to build a custom google street view: from filming it to building the interface.
 
